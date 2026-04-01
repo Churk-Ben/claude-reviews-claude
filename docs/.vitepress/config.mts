@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: 'Claude Code Deep Dive',
+  title: 'Claude Reviews Claude',
   description: 'Claude Reviews Claude Code — 当 AI 阅读自己的源代码',
   base: '/claude-reviews-claude/',
   cleanUrls: true,
