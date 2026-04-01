@@ -1,4 +1,8 @@
-# 第十二集：启动与引导 —— 从 `claude` 命令到第一个提示符
+﻿# 第十二集：启动与引导 —— 从 `claude` 命令到第一个提示符
+
+> 🌐 **语言**: 中文 | [English →](/chapters/12-startup-bootstrap)
+> 📖 **[在线阅读 →](https://openedclaude.github.io/claude-reviews-claude/zh-CN/chapters/12-startup-bootstrap)** — 支持侧边栏导航、暗色模式与全文搜索，体验更佳。
+
 
 > **源文件**：`cli.tsx`（303 行）、`init.ts`（341 行）、`setup.ts`（478 行）、`main.tsx`（4,500+ 行）、`bootstrap/state.ts`（1,759 行）、`startupProfiler.ts`（195 行）、`apiPreconnect.ts`（72 行）
 >

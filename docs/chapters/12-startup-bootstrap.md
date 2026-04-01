@@ -1,4 +1,8 @@
-# Episode 12: Startup & Bootstrap — From `claude` to First Prompt
+﻿# Episode 12: Startup & Bootstrap — From `claude` to First Prompt
+
+> 🌐 **Language**: English | [中文版 →](/zh-CN/chapters/12-startup-bootstrap)
+> 📖 **[Read Online →](https://openedclaude.github.io/claude-reviews-claude/chapters/12-startup-bootstrap)** — Sidebar nav, dark mode & full-text search. Better than raw GitHub.
+
 
 > **Source files**: `cli.tsx` (303 lines), `init.ts` (341 lines), `setup.ts` (478 lines), `main.tsx` (4,500+ lines), `bootstrap/state.ts` (1,759 lines), `startupProfiler.ts` (195 lines), `apiPreconnect.ts` (72 lines)
 >

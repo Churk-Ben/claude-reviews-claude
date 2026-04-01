@@ -1,4 +1,8 @@
-# 06 — Bash Execution Engine: Sandboxes, Pipelines & Process Lifecycle
+﻿# 06 — Bash Execution Engine: Sandboxes, Pipelines & Process Lifecycle
+
+> 🌐 **Language**: English | [中文版 →](/zh-CN/chapters/06-bash-engine)
+> 📖 **[Read Online →](https://openedclaude.github.io/claude-reviews-claude/chapters/06-bash-engine)** — Sidebar nav, dark mode & full-text search. Better than raw GitHub.
+
 
 > **Scope**: `tools/BashTool/` (18 files, ~580KB), `utils/Shell.ts`, `utils/ShellCommand.ts`, `utils/bash/` (15 files, ~430KB), `utils/sandbox/` (2 files, ~37KB), `utils/shell/` (10 files, ~114KB)
 >

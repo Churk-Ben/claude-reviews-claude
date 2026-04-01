@@ -1,4 +1,8 @@
-# 第十一集：压缩系统 —— Claude Code 如何实现"无限"对话
+﻿# 第十一集：压缩系统 —— Claude Code 如何实现"无限"对话
+
+> 🌐 **语言**: 中文 | [English →](/chapters/11-compact-system)
+> 📖 **[在线阅读 →](https://openedclaude.github.io/claude-reviews-claude/zh-CN/chapters/11-compact-system)** — 支持侧边栏导航、暗色模式与全文搜索，体验更佳。
+
 
 > **源文件**：`compact.ts`（1,706 行）、`autoCompact.ts`（352 行）、`microCompact.ts`（531 行）、`sessionMemoryCompact.ts`（631 行）、`prompt.ts`（375 行）、`grouping.ts`（64 行）、`postCompactCleanup.ts`（100 行）、`apiMicrocompact.ts`（140 行）、`compactWarningState.ts`（20 行）、`timeBasedMCConfig.ts`（49 行）
 >

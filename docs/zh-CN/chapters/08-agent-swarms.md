@@ -1,4 +1,8 @@
-# 08 — Swarm 智能体：多智能体团队协调
+﻿# 08 — Swarm 智能体：多智能体团队协调
+
+> 🌐 **语言**: 中文 | [English →](/chapters/08-agent-swarms)
+> 📖 **[在线阅读 →](https://openedclaude.github.io/claude-reviews-claude/zh-CN/chapters/08-agent-swarms)** — 支持侧边栏导航、暗色模式与全文搜索，体验更佳。
+
 
 > **范围**: `tools/TeamCreateTool/`、`tools/SendMessageTool/`、`tools/shared/spawnMultiAgent.ts`、`utils/swarm/`（~30 个文件，~6.8 千行）、`utils/teammateMailbox.ts`（1,184 行）
 >

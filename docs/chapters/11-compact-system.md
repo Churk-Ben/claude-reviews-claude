@@ -1,4 +1,8 @@
-# Episode 11: The Compaction System — How Claude Code Manages Infinite Conversations
+﻿# Episode 11: The Compaction System — How Claude Code Manages Infinite Conversations
+
+> 🌐 **Language**: English | [中文版 →](/zh-CN/chapters/11-compact-system)
+> 📖 **[Read Online →](https://openedclaude.github.io/claude-reviews-claude/chapters/11-compact-system)** — Sidebar nav, dark mode & full-text search. Better than raw GitHub.
+
 
 > **Source files**: `compact.ts` (1,706 lines), `autoCompact.ts` (352 lines), `microCompact.ts` (531 lines), `sessionMemoryCompact.ts` (631 lines), `prompt.ts` (375 lines), `grouping.ts` (64 lines), `postCompactCleanup.ts` (100 lines), `apiMicrocompact.ts` (140 lines), `compactWarningState.ts` (20 lines), `timeBasedMCConfig.ts` (49 lines)
 >

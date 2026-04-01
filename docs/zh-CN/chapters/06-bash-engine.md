@@ -1,4 +1,8 @@
-# 06 — Bash 执行引擎：沙箱、管道与进程生命周期
+﻿# 06 — Bash 执行引擎：沙箱、管道与进程生命周期
+
+> 🌐 **语言**: 中文 | [English →](/chapters/06-bash-engine)
+> 📖 **[在线阅读 →](https://openedclaude.github.io/claude-reviews-claude/zh-CN/chapters/06-bash-engine)** — 支持侧边栏导航、暗色模式与全文搜索，体验更佳。
+
 
 > **范围**: `tools/BashTool/` (18 个文件, ~580KB), `utils/Shell.ts`, `utils/ShellCommand.ts`, `utils/bash/` (15 个文件, ~430KB), `utils/sandbox/` (2 个文件, ~37KB), `utils/shell/` (10 个文件, ~114KB)
 >

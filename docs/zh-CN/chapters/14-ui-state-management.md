@@ -1,4 +1,8 @@
-# 第 14 集：UI 与状态管理 —— 终端里的浏览器
+﻿# 第 14 集：UI 与状态管理 —— 终端里的浏览器
+
+> 🌐 **语言**: 中文 | [English →](/chapters/14-ui-state-management)
+> 📖 **[在线阅读 →](https://openedclaude.github.io/claude-reviews-claude/zh-CN/chapters/14-ui-state-management)** — 支持侧边栏导航、暗色模式与全文搜索，体验更佳。
+
 
 > **源码文件**：`ink/` 目录 — 48 个文件，约 620KB。核心：`ink.tsx` (252KB)、`reconciler.ts` (14.6KB)、`renderer.ts` (7.7KB)、`dom.ts` (15.1KB)、`screen.ts` (49.3KB)、`events/dispatcher.ts` (6KB)、`focus.ts` (5.1KB)。状态管理：`state/store.ts` (836 字节)、`state/AppStateStore.ts` (21.8KB)、`state/AppState.tsx` (23.5KB)、`state/onChangeAppState.ts` (6.2KB)。屏幕：`screens/REPL.tsx` (874KB)、`screens/Doctor.tsx` (71KB)
 >

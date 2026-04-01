@@ -1,4 +1,8 @@
-# 第十三集：桥接系统 —— 远程控制协议
+﻿# 第十三集：桥接系统 —— 远程控制协议
+
+> 🌐 **语言**: 中文 | [English →](/chapters/13-bridge-system)
+> 📖 **[在线阅读 →](https://openedclaude.github.io/claude-reviews-claude/zh-CN/chapters/13-bridge-system)** — 支持侧边栏导航、暗色模式与全文搜索，体验更佳。
+
 
 > **源文件**：`bridge/` 目录 — 31 个文件，总计约 450KB。核心：`bridgeMain.ts`（3,000 行）、`replBridge.ts`（2,407 行）、`remoteBridgeCore.ts`（1,009 行）、`replBridgeTransport.ts`（371 行）、`sessionRunner.ts`（551 行）、`types.ts`（263 行）
 >

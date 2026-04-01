@@ -1,4 +1,8 @@
-# 08 — Agent Swarms: Multi-Agent Team Coordination
+﻿# 08 — Agent Swarms: Multi-Agent Team Coordination
+
+> 🌐 **Language**: English | [中文版 →](/zh-CN/chapters/08-agent-swarms)
+> 📖 **[Read Online →](https://openedclaude.github.io/claude-reviews-claude/chapters/08-agent-swarms)** — Sidebar nav, dark mode & full-text search. Better than raw GitHub.
+
 
 > **Scope**: `tools/TeamCreateTool/`, `tools/SendMessageTool/`, `tools/shared/spawnMultiAgent.ts`, `utils/swarm/` (~30 files, ~6.8K lines), `utils/teammateMailbox.ts` (1,184 lines)
 >

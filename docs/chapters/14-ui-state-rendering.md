@@ -1,4 +1,8 @@
-# 14 — UI & State Management: Building a Browser in Your Terminal
+﻿# 14 — UI & State Management: Building a Browser in Your Terminal
+
+> 🌐 **Language**: English | [中文版 →](/zh-CN/chapters/14-ui-state-rendering)
+> 📖 **[Read Online →](https://openedclaude.github.io/claude-reviews-claude/chapters/14-ui-state-rendering)** — Sidebar nav, dark mode & full-text search. Better than raw GitHub.
+
 
 > **Scope**: `src/ink/` (49 files, ~600KB), `src/state/` (3 files, ~5KB), `src/screens/REPL.tsx` (874KB), `src/components/` (~200 files)
 >

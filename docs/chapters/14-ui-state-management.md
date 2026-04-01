@@ -1,4 +1,8 @@
-# Episode 14: UI & State Management — A Browser in Your Terminal
+﻿# Episode 14: UI & State Management — A Browser in Your Terminal
+
+> 🌐 **Language**: English | [中文版 →](/zh-CN/chapters/14-ui-state-management)
+> 📖 **[Read Online →](https://openedclaude.github.io/claude-reviews-claude/chapters/14-ui-state-management)** — Sidebar nav, dark mode & full-text search. Better than raw GitHub.
+
 
 > **Source files**: `ink/` directory — 48 files, ~620KB total. Core: `ink.tsx` (252KB), `reconciler.ts` (14.6KB), `renderer.ts` (7.7KB), `dom.ts` (15.1KB), `screen.ts` (49.3KB), `events/dispatcher.ts` (6KB), `focus.ts` (5.1KB). State: `state/store.ts` (836 bytes), `state/AppStateStore.ts` (21.8KB), `state/AppState.tsx` (23.5KB), `state/onChangeAppState.ts` (6.2KB). Screens: `screens/REPL.tsx` (874KB), `screens/Doctor.tsx` (71KB)
 >

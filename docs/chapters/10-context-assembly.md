@@ -1,4 +1,8 @@
-# Episode 10: Context Assembly — How Claude Code Builds Its Mind Before Every Turn
+﻿# Episode 10: Context Assembly — How Claude Code Builds Its Mind Before Every Turn
+
+> 🌐 **Language**: English | [中文版 →](/zh-CN/chapters/10-context-assembly)
+> 📖 **[Read Online →](https://openedclaude.github.io/claude-reviews-claude/chapters/10-context-assembly)** — Sidebar nav, dark mode & full-text search. Better than raw GitHub.
+
 
 > **Source files**: `context.ts` (190 lines), `claudemd.ts` (1,480 lines), `systemPrompt.ts` (124 lines), `queryContext.ts` (180 lines), `attachments.ts` (3,998 lines), `prompts.ts` (915 lines), `analyzeContext.ts` (1,383 lines)
 >

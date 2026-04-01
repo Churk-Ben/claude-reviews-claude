@@ -1,4 +1,8 @@
-# Episode 15: Services & API Layer — The Nervous System
+﻿# Episode 15: Services & API Layer — The Nervous System
+
+> 🌐 **Language**: English | [中文版 →](/zh-CN/chapters/15-services-api-layer)
+> 📖 **[Read Online →](https://openedclaude.github.io/claude-reviews-claude/chapters/15-services-api-layer)** — Sidebar nav, dark mode & full-text search. Better than raw GitHub.
+
 
 > **Source files**: `src/services/api/claude.ts` (~126KB, 3,420 lines), `client.ts` (390 lines), `withRetry.ts` (823 lines), `errors.ts` (1,208 lines), `src/services/mcp/client.ts` (~119KB), `src/services/analytics/growthbook.ts` (~41KB), `src/services/lsp/LSPServerManager.ts` (421 lines)
 >

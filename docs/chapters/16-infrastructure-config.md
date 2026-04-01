@@ -1,4 +1,8 @@
-# 16 — Infrastructure & Config: The Hidden Skeleton of Claude Code
+﻿# 16 — Infrastructure & Config: The Hidden Skeleton of Claude Code
+
+> 🌐 **Language**: English | [中文版 →](/zh-CN/chapters/16-infrastructure-config)
+> 📖 **[Read Online →](https://openedclaude.github.io/claude-reviews-claude/chapters/16-infrastructure-config)** — Sidebar nav, dark mode & full-text search. Better than raw GitHub.
+
 
 > **Scope**: `bootstrap/state.ts` (56KB), `entrypoints/init.ts`, `utils/config.ts`, `utils/settings/`, `utils/secureStorage/`, `utils/tokens.ts`, `utils/claudemd.ts`, `utils/signal.ts`, `utils/git/`, `utils/thinking.ts`, `utils/cleanupRegistry.ts`, `utils/startupProfiler.ts`
 >

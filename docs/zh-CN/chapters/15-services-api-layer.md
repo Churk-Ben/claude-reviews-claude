@@ -1,4 +1,8 @@
-# 第 15 集：服务层与 API 架构 —— 神经系统
+﻿# 第 15 集：服务层与 API 架构 —— 神经系统
+
+> 🌐 **语言**: 中文 | [English →](/chapters/15-services-api-layer)
+> 📖 **[在线阅读 →](https://openedclaude.github.io/claude-reviews-claude/zh-CN/chapters/15-services-api-layer)** — 支持侧边栏导航、暗色模式与全文搜索，体验更佳。
+
 
 > **源码文件**: `src/services/api/claude.ts` (~126KB, 3,420 行), `client.ts` (390 行), `withRetry.ts` (823 行), `errors.ts` (1,208 行), `src/services/mcp/client.ts` (~119KB), `src/services/analytics/growthbook.ts` (~41KB), `src/services/lsp/LSPServerManager.ts` (421 行)
 >

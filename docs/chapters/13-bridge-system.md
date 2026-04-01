@@ -1,4 +1,8 @@
-# Episode 13: Bridge System — The Remote Control Protocol
+﻿# Episode 13: Bridge System — The Remote Control Protocol
+
+> 🌐 **Language**: English | [中文版 →](/zh-CN/chapters/13-bridge-system)
+> 📖 **[Read Online →](https://openedclaude.github.io/claude-reviews-claude/chapters/13-bridge-system)** — Sidebar nav, dark mode & full-text search. Better than raw GitHub.
+
 
 > **Source files**: `bridge/` directory — 31 files, ~450KB total. Core: `bridgeMain.ts` (3,000 lines), `replBridge.ts` (2,407 lines), `remoteBridgeCore.ts` (1,009 lines), `replBridgeTransport.ts` (371 lines), `sessionRunner.ts` (551 lines), `types.ts` (263 lines)
 >

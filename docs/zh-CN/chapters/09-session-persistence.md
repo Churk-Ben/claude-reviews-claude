@@ -1,4 +1,8 @@
-# 09 — 会话持久化：对话存储与恢复
+﻿# 09 — 会话持久化：对话存储与恢复
+
+> 🌐 **语言**: 中文 | [English →](/chapters/09-session-persistence)
+> 📖 **[在线阅读 →](https://openedclaude.github.io/claude-reviews-claude/zh-CN/chapters/09-session-persistence)** — 支持侧边栏导航、暗色模式与全文搜索，体验更佳。
+
 
 > **范围**: `utils/sessionStorage.ts`（5,106 行）、`utils/sessionStoragePortable.ts`（794 行）、`utils/sessionRestore.ts`（552 行）、`utils/conversationRecovery.ts`（598 行）、`utils/listSessionsImpl.ts`（455 行）、`utils/crossProjectResume.ts`（76 行）— 总计约 7,600 行
 >

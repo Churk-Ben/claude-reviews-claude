@@ -1,4 +1,8 @@
-# 07 — 权限流水线：从规则到内核的纵深防御
+﻿# 07 — 权限流水线：从规则到内核的纵深防御
+
+> 🌐 **语言**: 中文 | [English →](/chapters/07-permission-pipeline)
+> 📖 **[在线阅读 →](https://openedclaude.github.io/claude-reviews-claude/zh-CN/chapters/07-permission-pipeline)** — 支持侧边栏导航、暗色模式与全文搜索，体验更佳。
+
 
 > **范围**: `utils/permissions/` (24 个文件, ~320KB), `utils/settings/` (17 个文件, ~135KB), `utils/sandbox/` (2 个文件, ~37KB)
 >

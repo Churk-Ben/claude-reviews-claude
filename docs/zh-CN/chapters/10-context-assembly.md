@@ -1,4 +1,8 @@
-# 第十集：上下文装配 —— Claude Code 如何在每次对话前构建自己的"心智"
+﻿# 第十集：上下文装配 —— Claude Code 如何在每次对话前构建自己的"心智"
+
+> 🌐 **语言**: 中文 | [English →](/chapters/10-context-assembly)
+> 📖 **[在线阅读 →](https://openedclaude.github.io/claude-reviews-claude/zh-CN/chapters/10-context-assembly)** — 支持侧边栏导航、暗色模式与全文搜索，体验更佳。
+
 
 > **源文件**：`context.ts`（190 行）、`claudemd.ts`（1,480 行）、`systemPrompt.ts`（124 行）、`queryContext.ts`（180 行）、`attachments.ts`（3,998 行）、`prompts.ts`（915 行）、`analyzeContext.ts`（1,383 行）
 >

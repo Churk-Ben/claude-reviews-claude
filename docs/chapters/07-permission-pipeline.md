@@ -1,4 +1,8 @@
-# 07 — Permission Pipeline: Defense-in-Depth from Rules to Kernel
+﻿# 07 — Permission Pipeline: Defense-in-Depth from Rules to Kernel
+
+> 🌐 **Language**: English | [中文版 →](/zh-CN/chapters/07-permission-pipeline)
+> 📖 **[Read Online →](https://openedclaude.github.io/claude-reviews-claude/chapters/07-permission-pipeline)** — Sidebar nav, dark mode & full-text search. Better than raw GitHub.
+
 
 > **Scope**: `utils/permissions/` (24 files, ~320KB), `utils/settings/` (17 files, ~135KB), `utils/sandbox/` (2 files, ~37KB)
 >

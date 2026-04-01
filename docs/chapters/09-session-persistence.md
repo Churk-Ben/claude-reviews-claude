@@ -1,4 +1,8 @@
-# 09 — Session Persistence: Conversation Storage & Resume
+﻿# 09 — Session Persistence: Conversation Storage & Resume
+
+> 🌐 **Language**: English | [中文版 →](/zh-CN/chapters/09-session-persistence)
+> 📖 **[Read Online →](https://openedclaude.github.io/claude-reviews-claude/chapters/09-session-persistence)** — Sidebar nav, dark mode & full-text search. Better than raw GitHub.
+
 
 > **Scope**: `utils/sessionStorage.ts` (5,106 lines), `utils/sessionStoragePortable.ts` (794 lines), `utils/sessionRestore.ts` (552 lines), `utils/conversationRecovery.ts` (598 lines), `utils/listSessionsImpl.ts` (455 lines), `utils/crossProjectResume.ts` (76 lines) — ~7,600 lines total
 >
